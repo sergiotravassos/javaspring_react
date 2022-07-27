@@ -12,4 +12,5 @@
   <img align="center" alt="HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Heroku" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg">
+  <img align="center" alt="Netlify" height="60" width="80" src="https://user-images.githubusercontent.com/5185862/181222707-eb2240b7-a14e-48a7-8818-f03ad6d0261b.svg">
 </div>
